@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+p{
+	width:300px;
+	color:black;
+	background:lightblue;
+	padding:50px;
+	align-text:center;
+}
+div{
+	border:15px solid blue;
+	display:flex;
+	justify-content:center;
+}
