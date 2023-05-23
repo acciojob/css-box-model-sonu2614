@@ -1,12 +1,13 @@
 p{
-	width:300px;
 	color:black;
 	background:lightblue;
 	padding:50px;
 	align-text:center;
+	border:15px solid blue;
 }
 div{
-	border:15px solid blue;
+	width:300px;
+	
 	display:flex;
 	justify-content:center;
 }
